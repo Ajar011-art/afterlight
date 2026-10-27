@@ -1,0 +1,15 @@
+{
+  "name": "Afterlight",
+  "short_name": "Afterlight",
+  "icons": [
+    {
+      "src": "85d73500-b7c0-aafe-5883-bdc6fb494518.jpeg",
+      "sizes": "512x512",
+      "type": "image/jpeg"
+    }
+  ],
+  "start_url": ".",
+  "display": "standalone",
+  "background_color": "#0f0f23",
+  "theme_color": "#ffd700"
+}
