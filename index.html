@@ -1,0 +1,29 @@
+<!DOCTYPE html>
+<html lang="kk">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<meta name="theme-color" content="#FFD700">
+<link rel="manifest" href="manifest.json">
+<title>Afterlight - Әр қиындықтан кейін жарық бар</title>
+<style>
+body{font-family:-apple-system,sans-serif;background:#FFF9E6;margin:0;padding:20px;text-align:center}
+.card{background:white;border-radius:20px;padding:25px;margin-top:30px;box-shadow:0 10px 30px rgba(0,0,0,0.1)}
+h1{color:#FF9800} .quote{font-size:22px;margin:20px 0;font-weight:bold}
+button{background:#FF9800;color:white;border:none;padding:15px 30px;border-radius:30px;font-size:18px}
+</style>
+</head>
+<body>
+<div class="card">
+<h1>⭐ Afterlight</h1>
+<p>Оқушыларға арналған мотивациялық қосымша</p>
+<div class="quote" id="q">Әр қиындықтан кейін жарық бар ✨</div>
+<button onclick="newQ()">Жаңа мотивация</button>
+</div>
+<script>
+const quotes=["Арманда, әрекет ет, жетістікке жет!","Бүгінгі еңбегің - ертеңгі жеңісің","Сен қолыңнан келетініне сен - жарты жол!","Қиындық - өсуге мүмкіндік","Afterlight - сенің жарығың!"];
+function newQ(){document.getElementById('q').innerText=quotes[Math.floor(Math.random()*quotes.length)]}
+if('serviceWorker' in navigator){navigator.serviceWorker.register('sw.js')}
+</script>
+</body>
+</html>
