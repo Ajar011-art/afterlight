@@ -1,8 +1,23 @@
-# afterlight🌅
-An application designed to assist school students. It provides access to necessary information and serves as a source of encouragement and inspiration.
+# 🌟 Afterlight - Latest v1.0
 
-### 📲 Менің қосымшамды жүктеу:
-https://chatgpt.com/library/share/libfile_293d86bcd52c8191a02d6cf9503c4dba?account_id=personal
-
-### About / Қазақша:
 Оқушыларға арналған мотивациялық қосымша. Әр қиындықтан кейін жарық бар.
+
+### 📲 Жүктеу / Скачать - Android & iPhone
+
+[![Жүктеу - Latest](https://img.shields.io/badge/Жүктеу-v1.0_Latest-brightgreen?style=for-the-badge)](https://github.com/Ajar011-art/afterlight/releases/tag/v1.0)
+
+**📱 Android және iPhone-ға бірдей жұмыс істейді!**
+
+👉 **Жүктеу үшін:** [Осы жерді бас - v1.0](https://github.com/Ajar011-art/afterlight/releases/tag/v1.0)
+
+1. Сілтемені бас
+2. Төменгі **Assets** бөлімінен `Afterlight_2_0_saitka_zhukteu.zip` файлын жүкте
+3. Браузерден аш
+
+> 🍎 iPhone: App Store-да жақында! Қазір браузерден жұмыс істейді
+> 🤖 Android: APK жақында қосылады
+
+### ✨ Мүмкіндіктер
+- 🎯 Мақсат қою
+- 📊 Статистика
+- 💬 Мотивациялық сөздер
